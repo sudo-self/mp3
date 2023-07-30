@@ -1,5 +1,4 @@
-# CD-R 700mb is a static music page generator written in "go".
-## <img width="625" alt="Screenshot 2023-05-27 at 12 22 27 PM" src="https://github.com/sudo-self/cdr-mixTape-page-creator/assets/119916323/24b138da-5bcb-4e23-9198-09e7b566e164">
+# MP3 is a static music page written in "go".
 ### HOW TO
 1. Install by running ---> go install github.com/thebaer/cdr/cmd/cdr@latest
 2. on mac you can install go with brew. [ brew install go ]
@@ -13,6 +12,5 @@
 10. Copy `mixtape.tmpl` into your mixtape directory
 11. Edit this file to your liking, being sure to retain the `{{template ...}}` lines in the file
 12. Run `cdr burn` -- it'll generate your page from this template instead of the default! 
-### Player + Playlist
 ### USE IS SOLEY FOR ILLUSTRATIVE PURPOSES ONLY AND SHOULD NOT BE USED TO DISTRIBUTE COPYRIGHTED MATERIAL YOU DO NOT OWN THE RIGHTS TO.
 
