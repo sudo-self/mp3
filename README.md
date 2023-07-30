@@ -1,8 +1,8 @@
 # MP3 is a static music page written in "go".
 ### HOW TO
-1. Install by running ---> go install github.com/thebaer/cdr/cmd/cdr@latest
+1. install 
 2. on mac you can install go with brew. [ brew install go ]
-3. Clone this repo git clone https://github.com/sudo-self/CDR-MixTape-Page-Creator/
+3. Clone this repo git clone https://github.com/sudo-self/mp3.git
 4. Drop your music files into same folder as the "cdr" executable
 5. Make sure they're named in the order you want, and start with a two-digit track number, e.g. `01 - Track 1.mp3`
 6. Run `cdr clean` in this directory to standardize the file names based on their metadata (supports ID3, MP4, OGG, FLAC)
