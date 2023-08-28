@@ -5,7 +5,7 @@
 3. Clone this repo git clone https://github.com/sudo-self/mp3.git
 4. Drop your music files into the BLANK DISK folder
 5. Make sure they're named in the order you want, and start with a two-digit track number, e.g. `01 - Track 1.mp3`
-6. Run `cdr clean` in this directory to standardize the file names based on their metadata (supports ID3, MP4, OGG, FLAC)
+6. Run `clean` in this directory to standardize the file names based on their metadata (supports ID3, MP4, OGG, FLAC)
 7. EXECUTE: /go/bin/cd/ burn
 8. The index.html file will now be in the same folder and you can open it in your web browser
 
